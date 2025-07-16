@@ -92,7 +92,7 @@ Essas informações são carregadas dinamicamente com JavaScript a partir de um 
 
 
 
-## 👩‍💻 Autor
+## 👨‍💻 Autor
 
 Desenvolvido com 💙 por mim.
 
